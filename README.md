@@ -1,8 +1,8 @@
-👋 Hi, I’m Nuthanan Tharmarajah!
-🚀 Passionate about full-stack development and AI integration.
-💻 I love building scalable, user-centric applications and leveraging AI technologies to create impactful solutions.
-🌐 Proficient in React, TypeScript, and Next.js for the frontend, and experienced with Python, Node.js, and Docker for backend and deployment.
-🤖 Enthusiast for machine learning, neural networks and fine-tuning LLMs to bridge the gap between AI innovation and real-world applications.
+👋 Hi, I’m Nuthanan Tharmarajah! <br>
+🚀 Passionate about full-stack development and AI integration. <br>
+💻 I love building scalable, user-centric applications and leveraging AI technologies to create impactful solutions. <br>
+🌐 Proficient in React, TypeScript, and Next.js for the frontend, and experienced with Python, Node.js, and Docker for backend and deployment. <br>
+🤖 Enthusiast for machine learning, neural networks and fine-tuning LLMs to bridge the gap between AI innovation and real-world applications. <br> 
 📫 Let’s connect!
 
 <div id="badges">
