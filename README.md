@@ -1,15 +1,10 @@
-👋 Hi, I’m Nuthanan Tharmarajah! <br>
-🚀 Passionate about full-stack development and AI integration. <br>
-💻 I love building scalable, user-centric applications and leveraging AI technologies to create impactful solutions. <br>
-🌐 Proficient in React, TypeScript, and Next.js for the frontend, and experienced with Python, Node.js, and Docker for backend and deployment. <br>
-🤖 Enthusiast for machine learning, neural networks and fine-tuning LLMs to bridge the gap between AI innovation and real-world applications. <br> 
-📫 Let’s connect!
+· 👋 Hi, I’m Nuthanan Tharmarajah! <br>
+· 🚀 I’m passionate about full-stack development and AI integration.  <br>
+· 💻 I build scalable, user-centric applications and leverage AI for impactful solutions. <br>
+· 🌐 Proficient in React, TypeScript, and Next.js for the frontend, and Python, Node.js, and Docker for backend and deployment.  <br>
+· 🤖 I’m enthusiastic about machine learning, neural networks, and fine-tuning LLMs to bridge AI innovation with real-world applications.  <br>
+· 📫 Let’s connect!
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/nuthanan-tharmarajah">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 
 <!--
