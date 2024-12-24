@@ -1,4 +1,4 @@
-· 👋 Hi, I’m Nuthanan Tharmarajah, first year Mechatronics Engineering at UW! <br>
+· 👋 Hi, I’m Nuthanan Tharmarajah, first year Software Engineering at UW! <br>
 · 🚀 I’m passionate about full-stack development and AI integration.  <br>
 · 💻 I build scalable, user-centric applications and leverage AI for impactful solutions. <br>
 · 🌐 Proficient in React, TypeScript, and Next.js for the frontend, and Python, Node.js, and Docker for backend and deployment.  <br>
