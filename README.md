@@ -24,6 +24,8 @@
 
 
 [![Nuthanan Tharmarajah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuthanan06&show_icons=true&theme=radical)](https://github.com/nuthanan06/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuthanan06&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/nuthanan06/github-readme-stats)
+
 
           
           
