@@ -4,6 +4,10 @@
 · 🌐 Proficient in React, TypeScript, and Next.js for the frontend, and Python, Node.js, and Docker for backend and deployment.  <br>
 · 🤖 I’m enthusiastic about machine learning and neural networks to bridge AI innovation with real-world applications.  <br>
 
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+                    
+
 
 
 <!--
