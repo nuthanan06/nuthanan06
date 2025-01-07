@@ -23,7 +23,7 @@
 </p>
 
 
-[![Nuthanan Tharmarajah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuthanan06 icons=true&theme=radical)](https://github.com/nuthanan06/github-readme-stats)
+[![Nuthanan Tharmarajah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuthanan06&show_icons=true&theme=radical)](https://github.com/nuthanan06/github-readme-stats)
 
           
           
