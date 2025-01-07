@@ -5,8 +5,8 @@
 · 🤖 I’m enthusiastic about machine learning and neural networks to bridge AI innovation with real-world applications.  <br>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-                    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+                              
 
 
 
