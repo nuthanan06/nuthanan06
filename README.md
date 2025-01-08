@@ -1,4 +1,4 @@
-<h1> 👋 Hi! I'm Nuthanan Tharmarajah </h1>
+<h1> 👋 Hi! I'm Nuthanan Tharmarajah! </h1>
 
 · 👋 A first year Software Engineering student at the University of Waterloo! <br>
 · 🚀 I’m passionate about full-stack development and AI integration.  <br>
