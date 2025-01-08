@@ -1,6 +1,6 @@
 <h1> 👋 Hi! I'm Nuthanan Tharmarajah </h1>
 
-· 👋 A first year Software Engineering at the University of Waterloo! <br>
+· 👋 A first year Software Engineering student at the University of Waterloo! <br>
 · 🚀 I’m passionate about full-stack development and AI integration.  <br>
 · 💻 I build scalable, user-centric applications and leverage AI for impactful solutions. <br>
 · 🌐 Proficient in React, TypeScript, and Next.js for the frontend, and Python, Node.js, and Docker for backend and deployment.  <br>
