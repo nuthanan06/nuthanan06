@@ -26,13 +26,16 @@
 
 
 
-<a href="https://github.com/nuthanan06/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nuthanan06&show_icons=true&theme=radical"/>
-</a>
-<a href="https://github.com/nuthanan06/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuthanan06&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
-</a>
-<img align="center" src="https://streak-stats.demolab.com/?user=nuthanan06&theme=highcontrast" />
+<div align="center">
+  <a href="https://github.com/nuthanan06/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nuthanan06&show_icons=true&theme=radical"/>
+  </a>
+  <a href="https://github.com/nuthanan06/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuthanan06&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+  </a>
+  <img align="center" src="https://streak-stats.demolab.com/?user=nuthanan06&theme=highcontrast" />
+</div>
+
 
 
 
