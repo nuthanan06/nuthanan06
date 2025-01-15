@@ -4,7 +4,7 @@
 · 🚀 I’m passionate about full-stack development and AI integration.  <br>
 · 💻 I build scalable, user-centric applications and leverage AI for impactful solutions. <br>
 · 🌐 Proficient in React, TypeScript, and Next.js for the frontend,  Python, Node.js, and Docker for backend and deployment, and AWS for cloud deplyoment. <br>
-· 🤖 I’m enthusiastic about machine learning and neural networks to bridge AI innovation with real-world applications.  <br>
+· 🤖 I’m enthusiastic about machine learning and neural networks to bridge AI innovation with real-world applications within the healthcare, financial and environmental industries.  <br>
 
 <h2> 🚀 &nbsp;Some Tools and Frameworks I Have Used and Learned</h2>
 <p align="left">
