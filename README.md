@@ -1,6 +1,6 @@
 # 👋 hi, i'm nuthanan
 
-💻 software engineering @ university of waterloo  
+💻 software engineering + hci & ai @ university of waterloo
 🌐 full-stack dev | ⚙️ systems design | 🏗️ ci/cd & devops  
 
 **technologies:** 🐍 python | ☕ javascript | ⚛️ react | ✨ next.js | 🐳 docker | 🔄 ci/cd | ☁️ aws  
