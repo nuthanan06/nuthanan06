@@ -2,6 +2,7 @@
 
 💻 software engineering + hci & ai @ university of waterloo
 🌐 full-stack dev | ⚙️ systems design | 🏗️ ci/cd & devops | 🤖 agents, ai + ml 
+
 💼 prev @ rbc, guelph eye md
 
 **technologies:** 🐍 python | ☕ javascript | ⚛️ react | ✨ next.js | 🐳 docker | 🔄 ci/cd | ☁️ aws  
